@@ -1,0 +1,54 @@
+Appointment details Table
+
+
+Appointment id:	DoctorName:	Appointment charge:	Department:	Appointment duration	Appointment date:	Patient Name:
+
+nBhPo		Arya		$100.0			Cardiologists		15 minutes.		2018/09/20		Sachin
+
+MxKxJ		Rajeev		$100.0			Neurologists		15 minutes.		2018/09/20		sachin
+
+
+pGE5N		Arya		$100.0			Cardiologists		15 minutes.		2018/09/20		sachin
+
+
+IyKXr		Arya		$100.0			Cardiologists		15 minutes.		2018/09/21		ABC
+
+
+4cNKF		Rajeev		$100.0			Neurologists		15 minutes.		2018/09/21		ads
+
+
+CvvRZ		Ram		$100.0			Neurologists		15 minutes.		2018/09/21		jk
+
+
+fV3DA		Ram		$100.0			Neurologists		15 minutes.		2018/09/21		sachin
+
+
+jBCZc		Amul		$100.0			Cardiologists		15 minutes.		2018/09/21		sachin
+
+
+Kys5F		Arya		$100.0			Cardiologists		15 minutes.		2018/09/21		sachin
+
+
+mZDyf		Ram		$100.0			Neurologists		15 minutes.		2018/09/21		AMAR
+
+
+P0ufn		Arya		$100.0			Cardiologists		15 minutes.		2018/09/21		James
+
+
+C737V		Ram		$100.0			Neurologists		15 minutes.		2018/09/21		Jimmy
+
+
+5dUGk		Arya		$100.0			Cardiologists		15 minutes.		2018/09/22		Satya
+
+
+KIQ4m		Rajeev		$100.0			Neurologists		15 minutes.		2018/09/22		sachin
+
+
+H8evp		Arya		$100.0			Cardiologists		15 minutes.		2018/09/22		Sanjay
+
+
+CX5yB		Arya		$100.0			Cardiologists		15 minutes.		2018/09/22		Cary
+
+
+KmCgT		Amul		$100.0			Cardiologists		15 minutes.		2018/10/10		sahcin
+

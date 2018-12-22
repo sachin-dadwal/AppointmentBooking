@@ -1,0 +1,57 @@
+Doctor details Table
+
+
+Doctor id	Doctor Name	Appointment Charge	Dept		Appointment Duration
+
+xebCb		Arya		100.0		Cardiologists		15
+
+mLvAj		Rajeev		100.0		Neurologists		15
+
+
+X2ajC		Arya		100.0		Cardiologists		15
+
+
+IIOCr		Arya		100.0		Cardiologists		15
+
+
+aRt1D		Rajeev		100.0		Neurologists		15
+
+
+doyXJ		Ram		100.0		Neurologists		15
+
+
+SfNkZ		Ram		100.0		Neurologists		15
+
+PRpEn		Amul		100.0		Cardiologists		15
+
+
+Mz3NT		Rajeev		100.0		Neurologists		15
+
+
+6rlvx		Arya		100.0		Cardiologists		15
+
+
+TFpHL		Ram		100.0		Neurologists		15
+
+
+zAZ69		Arya		100.0		Cardiologists		15
+
+
+7qXGE		Ram		100.0		Neurologists		15
+
+
+DSvlN		Arya		100.0		Cardiologists		15
+
+
+BQr6R		Rajeev		100.0		Neurologists		15
+
+
+4OfRu		Arya		100.0		Cardiologists		15
+
+
+nLGsq		Arya		$100.0		Cardiologists		15
+
+
+
+DoqjX		Amul		$100.0		Cardiologists		15
+
